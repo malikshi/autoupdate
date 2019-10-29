@@ -1,0 +1,11 @@
+
+[
+{"OpenVPN ID":"Hostname","Details":"103.253.27.172"},
+{"OpenVPN ID":"OpenVPN TCP","Details":"1194"},
+{"OpenVPN ID":"OpenVPN UDP","Details":"25000"},
+{"OpenVPN ID":"OpenVPN Cloak","Details":"123"},
+{"OpenVPN ID":"Squid IP","Details":"103.253.27.172"},
+{"OpenVPN ID":"Squid Port","Details":"3128, 8080"},
+{"OpenVPN ID":"Username","Details":"iptunnels.com-vpnsg2"},
+{"OpenVPN ID":"Password","Details":"fAD0YGv"}
+] 

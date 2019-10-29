@@ -1,0 +1,9 @@
+
+[
+{"OBFS-TLS ID":"Server Addr","Details":"103.253.27.172"},
+{"OBFS-TLS ID":"Server Port","Details":"880"},
+{"OBFS-TLS ID":"Password","Details":"NWqEp6j"},
+{"OBFS-TLS ID":"Encryption","Details":"aes-256-cfb"},
+{"OBFS-TLS ID":"Plugin","Details":"obfs-local"},
+{"OBFS-TLS ID":"Plugin Options","Details":"obfs=http;obfs-host=store.line.me"}
+] 

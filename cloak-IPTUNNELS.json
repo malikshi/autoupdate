@@ -1,0 +1,18 @@
+
+[
+{"CLOAK ID":"Server Addr","Details":"103.253.27.172"},
+{"CLOAK ID":"Server Port","Details":"53794"},
+{"CLOAK ID":"Password","Details":"ZtYBLwp"},
+{"CLOAK ID":"Encryption","Details":"chacha20-ietf-poly1305"},
+{"CLOAK ID":"Plugin","Details":"ck-client"},
+{"CLOAK ID":"Plugin Options","Details":"see below"},
+{"CLOAK ID":"Transport","Details":"direct"},
+{"CLOAK ID":"ProxyMethod","Details":"shadowsocks"},
+{"CLOAK ID":"EncryptionMethod","Details":"plain"},
+{"CLOAK ID":"UID","Details":"uQWxvLxCfnPKa3fej/ILlg=="},
+{"CLOAK ID":"PublicKey","Details":"JFklOwCbh0HPSamJWK3KtwL+HxeWiEw5nB/4wckbSjw="},
+{"CLOAK ID":"ServerName","Details":"store.line.me"},
+{"CLOAK ID":"NumConn","Details":"100"},
+{"CLOAK ID":"BrowserSig","Details":"chrome"},
+{"CLOAK ID":"StreamTimeout","Details":"300"}
+] 

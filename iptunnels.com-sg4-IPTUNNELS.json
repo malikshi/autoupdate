@@ -1,0 +1,13 @@
+
+[
+{"SSH INDONESIA":"Hostname","Details":"103.253.27.172"},
+{"SSH INDONESIA":"Port OpenSSH","Details":"22, 143"},
+{"SSH INDONESIA":"Port Dropbear","Details":"115, 636"},
+{"SSH INDONESIA":"Port OpenSSH-SSL","Details":"990"},
+{"SSH INDONESIA":"Port Dropbear-SSL","Details":"456"},
+{"SSH INDONESIA":"Port Squid","Details":"3128, 8080"},
+{"SSH INDONESIA":"Port Squid-SSL","Details":"8000"},
+{"SSH INDONESIA":"Port BadVPN","Details":"7100-7900"},
+{"SSH INDONESIA":"Username","Details":"iptunnels.com-sg4"},
+{"SSH INDONESIA":"Password","Details":"AU5D8N9"}
+] 
